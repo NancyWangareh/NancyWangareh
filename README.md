@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on doing my data analytics projects
 - 📫 How to reach me via whatsapp 0758037505
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I learnt using computer packages as early as 6yrs old
+
 
 <!---
 NancyWangareh/NancyWangareh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
